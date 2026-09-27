@@ -1,23 +1,21 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/9adba640-2570-4c22-9355-4f13aa5d4507" alt="opsectransparent" width="15%"/>
+<img src="https://github.com/DuckyCashy/Opsec-Reloaded/src/main/resource/assets/opsec/icon.png" alt="opsec-reloaded" width="15%"/>
 </p>
-<h1 align="center">OpSec</h1>
+<h1 align="center">OpSec Reloaded</h1>
 
 
-<p align="center">A client-side Minecraft mod that provides protection against client fingerprinting, tracking exploits, and other privacy focused features.</p>
+<p align="center"></p>
 
 <p align="center">
 <a href="https://modrinth.com/mod/opsec"><img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/opsec?logo=modrinth&logoColor=white&label=Modrinth&color=00AF5C"></a>
-<a href="https://modrinth.com/mod/opsec/versions"><img alt="Supported Minecraft Versions" src="https://img.shields.io/badge/Available%20for-1.20%20%E2%80%93%2026.2-00AF5C"></a>
-<a href="https://www.curseforge.com/minecraft/mc-mods/opsec"><img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/1519411?logo=curseforge&logoColor=white&label=Curseforge&color=F16436"></a>
-<a href="https://www.curseforge.com/minecraft/mc-mods/opsec"><img alt="Supported Minecraft Versions" src="https://img.shields.io/badge/Available%20for-1.20%20%E2%80%93%2026.2-F16436"></a>
-<a href="https://github.com/aurickk/OpSec/releases"><img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/aurickk/OpSec/total?logo=github&logoColor=white&label=GitHub&color=6e5494"></a>
-<a href="https://github.com/aurickk/OpSec/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/aurickk/OpSec?logo=github&logoColor=white&label=Release&color=6e5494"></a>
+<a href="https://modrinth.com/mod/opsec/versions"><img alt="Supported Minecraft Versions" src="https://img.shields.io/badge/Available%20for-26.2%20%E2%80%93%2026.3-00AF5C"></a>
+<a href="https://github.com/DuckyCashy/OpSec-Reloaded/releases"><img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/aurickk/OpSec/total?logo=github&logoColor=white&label=GitHub&color=6e5494"></a>
+<a href="https://github.com/DuckyCashy/OpSec-Reloaded/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/aurickk/OpSec?logo=github&logoColor=white&label=Release&color=6e5494"></a>
 </p>
 
 
 > [!WARNING]
-> This is a passion project built and maintained with **AI**.
+> Opsec Reloaded is a modern, complete rewrite of the original [Opsec](https://github.com/aurickk/OpSec/) tool, Optimized and Enhanced Code.
 
 > [!IMPORTANT]
 > Fake phishing sites and Discord servers has been distributing **trojanized** builds of OpSec. Only download OpSec from these official sources:
